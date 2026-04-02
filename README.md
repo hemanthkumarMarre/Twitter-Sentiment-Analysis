@@ -1,5 +1,4 @@
 # Twitter-Sentiment-Analysis
-Twitter Sentiment Analysis Description
 📊 Twitter Sentiment Analysis using NLP & Machine Learning
 📌 Project Overview
 
